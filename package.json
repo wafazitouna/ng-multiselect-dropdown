@@ -36,12 +36,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nileshpatel17/ng-multiselect-dropdown.git"
+    "url": "https://github.com/wafazitouna/ng-multiselect-dropdown.git"
   },
   "bugs": {
-    "url": "https://github.com/nileshpatel17/ng-multiselect-dropdown/issues"
+    "url": "https://github.com/wafazitouna/ng-multiselect-dropdown/issues"
   },
-  "homepage": "https://github.com/nileshpatel17/ng-multiselect-dropdown#readme",
+  "homepage": "https://github.com/wafazitouna/ng-multiselect-dropdown#readme",
   "peerDependencies": {
     "@angular/common": ">=2.0.0",
     "@angular/core": ">=2.0.0"
